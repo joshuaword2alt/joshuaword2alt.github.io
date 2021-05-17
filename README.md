@@ -14,3 +14,6 @@ and also i have this now https://desktop.github.com/ happy
 https://discord.com/api/guilds/697185304699994132/widget.json
 
 <iframe src="https://discord.com/widget?id=697185304699994132&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+
+https://discord.com/api/guilds/697185304699994132/widget.json

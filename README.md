@@ -21,4 +21,4 @@ https://discord.com/api/guilds/697185304699994132/widget.json
 
 [![Discord](https://img.shields.io/discord/313125603924639766.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)](https://discord.gg/na2AgADfdN)
 
-[![Discord](https://img.shields.io/discord/313125603924639766.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)]([![Discord](https://github.com/joshuaword2alt/joshuaword2alt.github.io/blob/main/Dain_App_Colab.ipynb)
+

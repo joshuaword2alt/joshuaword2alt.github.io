@@ -24,3 +24,7 @@ https://discord.com/api/guilds/697185304699994132/widget.json
 
 @ninjamuffin99
 
+http://www.avanti.arrozcru.org/
+https://ffmpeg.org/
+https://grisk.itch.io/dain-app
+

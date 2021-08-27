@@ -28,3 +28,5 @@ http://www.avanti.arrozcru.org/
 https://ffmpeg.org/
 https://grisk.itch.io/dain-app
 https://vice-emu.sourceforge.io/
+https://www.splitter.ai/
+https://github.com/deezer/spleeter
